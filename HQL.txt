@@ -1,3 +1,4 @@
 http://emrpms.blogspot.in/2012/06/select-only-few-columns-in-hibernate.html
 https://www.youtube.com/watch?v=myzMVndhBTk
 http://www.benchresources.net/spring-mvc-multi-controller-actions-using-controller/
+http://websystique.com/springmvc/springmvc-hibernate-many-to-many-example-annotation-using-join-table/
