@@ -1,2 +1,3 @@
 http://emrpms.blogspot.in/2012/06/select-only-few-columns-in-hibernate.html
 https://www.youtube.com/watch?v=myzMVndhBTk
+http://www.benchresources.net/spring-mvc-multi-controller-actions-using-controller/
