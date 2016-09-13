@@ -1,0 +1,11 @@
+String hql = "from Product where description like :keyword";
+ 
+String keyword = "New";
+Query query = session.createQuery(hql);
+query.setParameter("keyword", "%" + keyword + "%");
+ 
+List<Product> listProducts = query.list();
+ 
+for (Product aProduct : listProducts) {
+    System.out.println(aProduct.getName());
+}
