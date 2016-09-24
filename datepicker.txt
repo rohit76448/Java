@@ -1,6 +1,11 @@
 https://www.youtube.com/watch?v=MdA9wkRMQaE
 NEW LINK:-
 http://embed.plnkr.co/ofAbN9q35RfxxPeVqy47/
+new links:-
+https://jsfiddle.net/Stepan_Kasyanenko/60ovmmeq/
+https://docs.angularjs.org/api/ng/directive/ngValue
+http://stackoverflow.com/questions/35306455/angularjs-getting-the-button-value
+http://www.aspsnippets.com/Articles/AngularJS-Get-selected-Text-and-Value-of-HTML-Select-DropDownList-on-Button-click-using-ng-click.aspx
 
 
 NEW CODE:-
